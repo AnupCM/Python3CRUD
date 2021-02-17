@@ -15,7 +15,7 @@ Create a virtual environment to install dependencies in and activate it
 
 ```sh
 $ virtualenv2 --no-site-packages env
-$ source envbinactivate
+$ source env/bin/activate
 ```
 
 Then install the dependencies
