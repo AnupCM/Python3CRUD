@@ -7,7 +7,7 @@
 The first thing to do is to clone the repository
 
 ```sh
-$ git clone https://github.com/AnupCM/PythonTest.git
+$ git clone https://github.com/AnupCM/PythonInterviewTest.git
 $ cd anup
 ```
 
@@ -31,10 +31,10 @@ Once `pip` has finished downloading the dependencies
 (env)$ cd mysite
 (env)$ python manage.py runserver
 ```
-And navigate to `http://127.0.0.1:8000/account/activities`.
+And navigate to `http://ec2-18-221-36-217.us-east-2.compute.amazonaws.com/account/activities`.
 
 You will get all the data present in the databse
-And navigate to `http://127.0.0.1:8000/admin`
+And navigate to `http://ec2-18-221-36-217.us-east-2.compute.amazonaws.com/admin`
 you can create new superuser or you can use login credentials(username=anupcm, password=Password@123)
  
 For custom management commands use
