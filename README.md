@@ -1,4 +1,4 @@
-# PythonInterviewTest
+# Python3
  Python Assessment
  # Python sample application
 
